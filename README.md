@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/1*8QoNE7NqYqqlJrn_8MoIkQ.gif">
+<img align="right" alt="Coding" width="550" src="https://miro.medium.com/v2/resize:fit:1400/1*8QoNE7NqYqqlJrn_8MoIkQ.gif">
 ....
 ....
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DevSecOps**
 
-- 👯 I’m looking to collaborate on **Hey Bro**
+- 👯 I’m looking to collaborate on **Hey Bro Cafe**
 
 - 📫 How to reach me **msmalviya@hotmail.com**
 
